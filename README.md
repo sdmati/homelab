@@ -122,5 +122,3 @@ Odłączanie od konsoli bez wyłączania serwera: **Ctrl+B**, następnie **D**.
 
 
 ---
-
-*Dokumentacja jest aktualizowana wraz z rozwojem homelaba. Opisuje stan znany autorowi, a elementy niezweryfikowane są wyraźnie oznaczone.*
